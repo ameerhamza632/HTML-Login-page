@@ -1,0 +1,62 @@
+.body{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    
+}
+.form{
+    margin: auto;
+    margin-top: 2.5cm;
+    height: 15cm;
+    width: 10cm;
+    background-color: beige;
+    align-items: center;
+    padding-left:55px ;
+    border: solid darkgray;
+    border-radius: 10px;
+}
+#button{
+    background: rgba(104, 100, 100, 0.342);
+    height: 35px;
+    width: 310px;
+    color: solid rgb(69, 71, 71);
+    box-shadow: 2px;
+    border-color: rgb(196, 186, 174);
+    border-radius: 10px;
+    
+
+}
+#cololib{
+    padding-top: 25px;
+    padding-bottom: -20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#contact{
+    margin-left: 5px;
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#comment{
+    height: 60px;
+    width: 8cm;
+}
+#name{
+    height: 30px;
+    width: 8cm;
+}
+#email{
+    height: 30px;
+    width: 8cm;
+}
+#phone{
+    height: 30px;
+    width: 8cm;
+}
+#website{
+    height: 30px;
+    width: 8cm;
+}
+
